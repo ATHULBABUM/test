@@ -1,0 +1,14 @@
+body{
+    background-image: url("images/bg.jpeg");
+    text-align: center;
+    background-color: lightgreen;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ .aa{
+    float: right;
+}
+.button{
+    padding-top: 15%;
+
+}
